@@ -15,5 +15,7 @@
     "tests"
   ],
   "dependencies": {
+    "react": "~0.13.3",
+    "Materialize": "materialize#~0.97.1"
   }
 }
