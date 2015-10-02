@@ -1,0 +1,19 @@
+{
+  "name": "DrinkWithMe",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.php",
+  "authors": [
+    "radiuso"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
