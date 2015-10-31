@@ -29,3 +29,4 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 application/assets/libs/*
 application/assets/dist/*
 node_modules/*
+ci_user_guide
