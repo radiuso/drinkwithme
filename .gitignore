@@ -30,3 +30,4 @@ application/assets/libs/*
 application/assets/dist/*
 node_modules/*
 ci_user_guide
+user_guide
